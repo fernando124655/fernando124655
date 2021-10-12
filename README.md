@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Sou o Fernando Souza e, um entudante de computação do 2° período
+
 <!--
 **fernando124655/fernando124655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
