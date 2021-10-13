@@ -2,7 +2,7 @@
 
 Sou o Fernando Souza e, um estudante de computação do 2° período
 
-
+- 🎶 Curto um som tipo Troyboi, UFO e Memba. 
 - 🔭 Eu trabalho como estudante!?
 - 🌱 Estou aprendendo Haskell e WebDev JS, HTML, etc.
 - 👯 Procuro colaborar com projetos Haskell
